@@ -14,3 +14,4 @@ jobs:
           owner: anuraghazra
           base: master
           head: master
+          merge_method: rebase
