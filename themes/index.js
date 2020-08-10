@@ -125,6 +125,12 @@ const themes = {
     text_color: "ffd95b",
     bg_color: "000000",
   },
+  darcula: {
+    title_color: "BA5F17",
+    icon_color: "84628F",
+    text_color: "BEBEBE",
+    bg_color: "242424",
+  },
   bear: {
     title_color: "e03c8a",
     icon_color: "00AEFF",
@@ -167,6 +173,12 @@ const themes = {
     text_color: "24292e",
     bg_color: "ffffff",
   },
+  "vue-dark":{
+    title_color: "19f9d8",
+    icon_color: "19f9d8",
+    text_color: "ffffff",
+    bg_color: "002b36",
+  }
 };
 
 module.exports = themes;
