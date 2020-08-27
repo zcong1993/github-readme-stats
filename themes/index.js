@@ -197,11 +197,23 @@ const themes = {
     text_color: "c7c8c2",
     bg_color: "1f2430",
   },
+  "midnight-purple":{
+    title_color: "9745f5",
+    icon_color: "9f4bff",
+    text_color: "ffffff",
+    bg_color: "000000",
+  },
   calm: {
     title_color: "e07a5f",
     icon_color: "edae49",
     text_color: "ebcfb2",
     bg_color: "373f51",
+  },
+  react: {
+    title_color: "61dafb",
+    icon_color: "61dafb",
+    text_color: "ffffff",
+    bg_color: "20232a",
   },
 };
 
